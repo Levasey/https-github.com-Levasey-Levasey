@@ -35,7 +35,7 @@
 
 ## 📁 Featured Projects
 
-### **🎮 Brain Games Collection** | [View Repository](https://github.com/Levasey/java-project-lvl1)
+### **🎮 Brain Games Collection** | [View Repository](https://github.com/Levasey/java-project-61)
 *Java, Gradle, Console Application, Algorithms*
 - Developed a collection of **5 console-based math games** to train logical thinking and arithmetic skills
 - Implemented game logic for: Even number detection, Calculator, GCD calculation, Arithmetic progression completion, Prime number identification
@@ -43,16 +43,6 @@
 - Created interactive CLI with **three-round challenge system** - player wins by answering all questions correctly
 - Used **Gradle** for build automation and dependency management
 - Focus on **algorithmic thinking** and **mathematical problem-solving**
-
-### **🔍 URL Inspection Tool** | [View Repository](https://github.com/Levasey/java-project-72)
-*Java 21, Javalin, PostgreSQL/H2, Gradle, JTE Templates*
-- Built a **web application for URL analysis and inspection** with comprehensive checking capabilities
-- Implemented **URL submission and storage system** with detailed metadata tracking
-- Created **HTTP client functionality** to check URL availability and extract: HTTP status codes, page titles, meta descriptions
-- Designed **database schema** with PostgreSQL for production and H2 for development/testing
-- Developed **clean architecture** with separation of concerns: Controllers, Repository Pattern, Service Layer
-- Used **JTE (Java Template Engine)** for dynamic HTML rendering and **HikariCP** for connection pooling
-- Implemented **logging with SLF4J and Lombok** for better debugging and monitoring
 
 ### **📊 File Differ (gendiff)** | [View Repository](https://github.com/Levasey/java-project-71)
 *Java, Gradle, JSON/YAML Parsing, CLI Application*
@@ -64,7 +54,27 @@
 - Created **Gradle-based build system** with installation and distribution capabilities
 - Focus on **data structure comparison algorithms** and **command-line application design**
 
-### **📋 Task Management System** | [View Repository](https://github.com/Levasey/java-project-73)
+### **✅ Data Validator Library** | [View Repository](https://github.com/Levasey/java-project-78)
+*Java, Design Patterns, Validation Framework, Unit Testing*
+- Developed a **flexible data validation system** with support for multiple data types and nested validation
+- Implemented **builder pattern** for fluent validation API with method chaining
+- Created **type-specific validators** for Strings, Numbers, and Maps with comprehensive checks
+- Designed **nested validation system** for complex Map structures with recursive validation
+- Built **custom exception handling** with detailed error messages for validation failures
+- Focused on **extensibility** - easy to add new validation rules and data types
+- Comprehensive **unit test coverage** for all validation scenarios
+
+### **🔍 URL Inspection Tool** | [View Repository](https://github.com/Levasey/java-project-72)
+*Java 21, Javalin, PostgreSQL/H2, Gradle, JTE Templates*
+- Built a **web application for URL analysis and inspection** with comprehensive checking capabilities
+- Implemented **URL submission and storage system** with detailed metadata tracking
+- Created **HTTP client functionality** to check URL availability and extract: HTTP status codes, page titles, meta descriptions
+- Designed **database schema** with PostgreSQL for production and H2 for development/testing
+- Developed **clean architecture** with separation of concerns: Controllers, Repository Pattern, Service Layer
+- Used **JTE (Java Template Engine)** for dynamic HTML rendering and **HikariCP** for connection pooling
+- Implemented **logging with SLF4J and Lombok** for better debugging and monitoring
+
+### **📋 Task Management System** | [View Repository](https://github.com/Levasey/java-project-99)
 *Spring Boot, PostgreSQL, JWT, Thymeleaf, MVC Pattern*
 - Developed a **full-featured task management system** similar to Redmine for project tracking
 - Implemented **complete authentication system** with registration, login, and session management
